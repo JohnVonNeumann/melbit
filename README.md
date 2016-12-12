@@ -19,6 +19,7 @@ OR
 * Create a mobile friendly front page that offers a search bar, drop down menu and sitemap footer.
 * Implement the OpenStreetMaps API.
 * Enable users to search for locations (street names, addresses, listed businesses).
+* Create blog post page with the ability to pull it via an RSS feed. 
 
 ####Implementation 2: Improvement of map filtering.
 * Enable the use of filters (types of businesses: Cafes, Restaurants, Bars, etc)
